@@ -1,4 +1,4 @@
-package by.tms.servlet;
+package by.tms.servlet.lesson26;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
